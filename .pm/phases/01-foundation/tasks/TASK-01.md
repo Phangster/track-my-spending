@@ -2,7 +2,7 @@
 task: "01"
 name: Project Scaffolding & Supabase Auth
 discipline: fullstack
-status: To Do
+status: In Progress
 priority: Highest
 parent: ../STORY.md
 ---
