@@ -1,6 +1,6 @@
 ---
 phase: 01-foundation
-status: To Do
+status: In Progress
 priority: Highest
 ---
 
