@@ -2,7 +2,7 @@
 task: "03"
 name: Protected Layout & Navigation Shell
 discipline: frontend
-status: To Do
+status: In Progress
 priority: Highest
 parent: ../STORY.md
 ---
