@@ -2,7 +2,7 @@
 task: "02"
 name: Database Schema & RLS
 discipline: backend
-status: To Do
+status: In Progress
 priority: Highest
 parent: ../STORY.md
 ---

@@ -26,6 +26,6 @@ Scaffold the Next.js 15 application with Supabase authentication and database sc
 ## Tasks
 | # | Name | Discipline | Status |
 |---|------|-----------|--------|
-| 01 | Project Scaffolding & Supabase Auth | fullstack | To Do |
+| 01 | Project Scaffolding & Supabase Auth | fullstack | Done |
 | 02 | Database Schema & RLS | backend | To Do |
 | 03 | Protected Layout & Navigation Shell | frontend | To Do |
